@@ -84,9 +84,6 @@ http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png",Bengütürk TV
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 
-#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png",Yol TV
-http://stream.tvcdn.net/haber/yol-tv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png",TBMM TV
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 
@@ -117,9 +114,6 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",Show Max
-http://stream.tvcdn.net/eglence/show-max.m3u8
-
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8.5
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
 
@@ -128,9 +122,6 @@ http://stream.tvcdn.net/eglence/dmax.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
-
-#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
-http://stream.tvcdn.net/eglence/tv-4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png",Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
